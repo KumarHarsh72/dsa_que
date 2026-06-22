@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2942-find-words-containing-character](https://github.com/KumarHarsh72/dsa_que/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/KumarHarsh72/dsa_que/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/KumarHarsh72/dsa_que/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/KumarHarsh72/dsa_que/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
