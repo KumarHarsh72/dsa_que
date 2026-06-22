@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2469-convert-the-temperature](https://github.com/KumarHarsh72/dsa_que/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/KumarHarsh72/dsa_que/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## String
 |  |
