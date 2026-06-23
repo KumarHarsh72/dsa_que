@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/KumarHarsh72/dsa_que/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KumarHarsh72/dsa_que/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/KumarHarsh72/dsa_que/tree/master/2942-find-words-containing-character) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KumarHarsh72/dsa_que/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/KumarHarsh72/dsa_que/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/KumarHarsh72/dsa_que/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/KumarHarsh72/dsa_que/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KumarHarsh72/dsa_que/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/KumarHarsh72/dsa_que/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KumarHarsh72/dsa_que/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2469-convert-the-temperature](https://github.com/KumarHarsh72/dsa_que/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/KumarHarsh72/dsa_que/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KumarHarsh72/dsa_que/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
