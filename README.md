@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/KumarHarsh72/dsa_que/tree/master/0771-jewels-and-stones) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KumarHarsh72/dsa_que/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/KumarHarsh72/dsa_que/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KumarHarsh72/dsa_que/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/KumarHarsh72/dsa_que/tree/master/0771-jewels-and-stones) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KumarHarsh72/dsa_que/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2942-find-words-containing-character](https://github.com/KumarHarsh72/dsa_que/tree/master/2942-find-words-containing-character) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KumarHarsh72/dsa_que/tree/master/3760-maximum-substrings-with-distinct-start) |
