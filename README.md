@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/KumarHarsh72/dsa_que/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KumarHarsh72/dsa_que/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/KumarHarsh72/dsa_que/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/KumarHarsh72/dsa_que/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/KumarHarsh72/dsa_que/tree/master/3701-compute-alternating-sum) |
@@ -27,5 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/KumarHarsh72/dsa_que/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KumarHarsh72/dsa_que/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3701-compute-alternating-sum](https://github.com/KumarHarsh72/dsa_que/tree/master/3701-compute-alternating-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KumarHarsh72/dsa_que/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
