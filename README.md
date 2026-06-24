@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/KumarHarsh72/dsa_que/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/KumarHarsh72/dsa_que/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/KumarHarsh72/dsa_que/tree/master/3701-compute-alternating-sum) |
+| [3895-count-digit-appearances](https://github.com/KumarHarsh72/dsa_que/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KumarHarsh72/dsa_que/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KumarHarsh72/dsa_que/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/KumarHarsh72/dsa_que/tree/master/3516-find-closest-person) |
+| [3895-count-digit-appearances](https://github.com/KumarHarsh72/dsa_que/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
 | ------- |
