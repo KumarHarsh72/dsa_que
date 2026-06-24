@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/KumarHarsh72/dsa_que/tree/master/0771-jewels-and-stones) |
+| [1678-goal-parser-interpretation](https://github.com/KumarHarsh72/dsa_que/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KumarHarsh72/dsa_que/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2942-find-words-containing-character](https://github.com/KumarHarsh72/dsa_que/tree/master/2942-find-words-containing-character) |
 | [3280-convert-date-to-binary](https://github.com/KumarHarsh72/dsa_que/tree/master/3280-convert-date-to-binary) |
