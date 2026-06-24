@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/KumarHarsh72/dsa_que/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KumarHarsh72/dsa_que/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/KumarHarsh72/dsa_que/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/KumarHarsh72/dsa_que/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KumarHarsh72/dsa_que/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KumarHarsh72/dsa_que/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
