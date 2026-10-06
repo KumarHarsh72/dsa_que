@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/KumarHarsh72/dsa_que/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/KumarHarsh72/dsa_que/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KumarHarsh72/dsa_que/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2574-left-and-right-sum-differences](https://github.com/KumarHarsh72/dsa_que/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/KumarHarsh72/dsa_que/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/KumarHarsh72/dsa_que/tree/master/2942-find-words-containing-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/KumarHarsh72/dsa_que/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KumarHarsh72/dsa_que/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/KumarHarsh72/dsa_que/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
